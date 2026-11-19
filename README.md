@@ -10,7 +10,7 @@
 ---
 
 ## Tautan Penting
-* **Script Google Earth Engine (Code Editor):** [Buka Script di GEE](https://code.earthengine.google.com/?scriptPath=users/ma-project-of-indonesian/default:klasifikasi_rf_gowa) *(Salinan skrip lengkap tersimpan di [`script/klasifikasi_rf.js`](script/klasifikasi_rf.js))*
+* **Script Google Earth Engine (Code Editor):** [Buka Script di GEE (Snapshot Langsung)](https://code.earthengine.google.com/941baf13eeda8c0dd5e0dbaf991d210e) *(Salinan skrip lengkap tersimpan di [`script/klasifikasi_rf.js`](script/klasifikasi_rf.js))*
 * **Repositori GitHub:** [Klasifikasi Penutup Lahan_Kabupaten Gowa_V126241003](https://github.com/ma-project-of-indonesian/Klasifikasi_Penutup_Lahan_Kabupaten_Gowa_V126241003)
 
 ---
